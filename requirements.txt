@@ -1,0 +1,9 @@
+pylint==4.0.4
+click
+pytest
+pytest-cov
+fastapi
+uvicorn
+black
+wikipedia
+ipdb
