@@ -7,7 +7,9 @@
 				"GitHub.copilot",
 				"vscjava.migrate-java-to-azure",
 				"ms-vscode.makefile-tools",
-				"ms-python.python"
+				"ms-python.python",
+				"google.geminicodeassist",
+				"github.vscode-github-actions"
 			]
 		}
 	}
