@@ -1,0 +1,14 @@
+{
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot-chat",
+				"GitHub.copilot",
+				"vscjava.migrate-java-to-azure",
+				"ms-vscode.makefile-tools",
+				"ms-python.python"
+			]
+		}
+	}
+}
