@@ -1,17 +1,22 @@
 """
 A calculator module that provides basic arithmetic operations.
 """
+
+
 def add(a, b):
     """Return the sum of a and b."""
-    return a + b      
- 
+    return a + b
+
+
 def subtract(a, b):
     """Return the difference of a and b."""
     return a - b
 
+
 def multiply(a, b):
     """Return the product of a and b."""
     return a * b
+
 
 def divide(a, b):
     """Return the quotient of a and b."""
@@ -19,7 +24,8 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero.")
     return a / b
 
-#build a function to calculate the power of a number with x as base and y as exponent
+
+# build a function to calculate the power of a number with x as base and y as exponent
 def power(x, y):
     """Return x raised to the power of y."""
-    return x ** y
+    return x**y
