@@ -1,0 +1,12 @@
+name: fashion-mnist-project
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - mlflow
+  - pandas
+  - numpy
+  - pip
+  - matplotlib
+  - seaborn
